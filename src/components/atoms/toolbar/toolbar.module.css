@@ -1,0 +1,8 @@
+.toolbar{
+    border: 1px solid whitesmoke;
+    display: flex;
+    gap: 1rem;
+    justify-content: space-around;
+    align-items: center;
+    padding-left: 2rem;
+}

@@ -1,0 +1,48 @@
+.NavBar{
+    margin-top: -1px;
+    border: 1rem solid white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.nav{
+    border: none;
+    display: flex;
+    flex-direction: row;
+    background-color: whitesmoke;
+    height: 80%;
+    font-size: 1.25rem;
+    width: 70%;
+    margin-left: 1rem;
+    margin-right: 10rem;
+
+}
+
+.icon{
+    background-color: whitesmoke;
+    border-radius: 10px;
+    height: 2rem;
+    padding: 0rem 1rem;
+    display: flex;
+    align-items: center;
+}
+.logo{
+    margin-top: -4px;
+    border: 1px solid white;
+    width: 1px;
+    
+}
+.p{
+    margin-top: -1px;
+
+}
+.search{
+    border: none;
+    height: 2rem;
+    width: 60rem;
+    background-color: whitesmoke;
+    
+}
+.search:focus{
+    outline: none;
+}

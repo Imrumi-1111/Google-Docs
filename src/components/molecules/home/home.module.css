@@ -1,0 +1,30 @@
+.Home {
+  border: 1rem solid whitesmoke;
+  background-color: whitesmoke;
+}
+.headtag {
+  border: 1rem solid whitesmoke;
+  margin-left: 5rem;
+  display: flex;
+  align-items: flex-start;
+}
+.pages {
+  border: 1px solid whitesmoke;
+  display: flex;
+  justify-content: space-around;
+}
+.btn:hover {
+  border: 1px solid blue;
+  box-shadow: 0rem 0rem 1rem;
+}
+
+.btn {
+  border: 1px solid white;
+  background-color: white;
+  height: 14rem;
+  width: 10rem;
+}
+.TiPlus {
+  border: 1px;
+  height: 10rem;
+}

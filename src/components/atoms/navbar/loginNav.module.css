@@ -1,0 +1,61 @@
+.logo{
+    margin-top: 1rem;
+    margin-left: 1rem;
+    border: 1px solid white;
+    display: flex;
+    flex-direction: row;
+    width: 50rem;
+    height: 4.5rem;
+    cursor: pointer;   
+}
+
+.document{
+    margin-top: 12px;
+    border: 1px solid white;
+    display: flex;
+    align-items: center;
+    width: 12rem;
+    height: 1rem;
+    font-size: 20px;
+    padding: 3px;
+    border-radius: 6px;
+}
+
+.document:hover{
+    border: 1px solid black;
+    height: 1rem;
+}
+
+.FiStar{
+    margin-top: 1rem;
+    margin-left: 2rem;
+    display: flex;
+    align-items: center;
+     
+}
+
+.head{
+    margin: auto;
+    margin-top: 1.5rem;
+    margin-left: -15rem;
+    border: 1px solid white;
+    display: flex;
+    justify-content: space-around;
+    gap: 1.5rem;
+    align-items:center ;
+    border: 1rem;
+}
+
+.para{
+    border: 1px solid white;
+    display: flex;
+    border-radius: 8px;
+    width:fit-content;
+    align-items: center; 
+    padding: 4px;
+    font-size: 15px;
+}
+
+.para:hover{
+    background-color: rgb(230, 218, 218);
+}

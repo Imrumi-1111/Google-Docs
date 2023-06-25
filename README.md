@@ -1,3 +1,8 @@
+# Google-Docs-clone
+# Deploy link :
+# It is a google docs clone project. Build this project using ReactJs library, along with react quill, router dom,Google Button and MUI Library.
+# Build by : Upasana Chakraborty.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
